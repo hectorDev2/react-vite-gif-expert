@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test GifItem get a snapshots 1`] = `
+<div>
+  <div
+    aria-label="card"
+    class="card"
+  >
+    <img
+      alt="weed is love"
+      src="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    />
+    <h3
+      data-testid="title"
+    >
+      weed is love
+    </h3>
+  </div>
+</div>
+`;
